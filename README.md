@@ -1,3 +1,6 @@
+
+# Note: Personal fork for learning
+
 # Ultimate Rust Crash Course
 
 This is the companion repository for the [Ultimate Rust Crash Course] published online, presented
